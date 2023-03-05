@@ -4,7 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eae791ff-9b9f-44e3-8363-b1498c6228cd" name="Changes" comment="" />
+    <list default="true" id="eae791ff-9b9f-44e3-8363-b1498c6228cd" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/contacto/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contacto/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contacto/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contacto/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contacto/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contacto/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contacto/src/main/java/eliaskrr/contacto/ContactoApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contacto/src/main/java/eliaskrr/contacto/controlador/ContactoControlador.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contacto/src/main/java/eliaskrr/contacto/excepciones/ContactoNotFoundException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contacto/src/main/java/eliaskrr/contacto/modelo/Contacto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contacto/src/main/java/eliaskrr/contacto/repo/ContactoRepo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contacto/src/main/java/eliaskrr/contacto/servicio/ContactoServicio.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contacto/src/main/java/eliaskrr/contacto/servicio/ContactoServicioImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contacto/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contacto/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contacto/src/test/java/eliaskrr/contacto/ContactoApplicationTests.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
