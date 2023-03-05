@@ -1,0 +1,19 @@
+server:
+  application: 8080
+
+spring:
+  application:
+    name: contacto
+  #Configuracion BBDD
+  datasource:
+    url: jdbc:oracle:thin:@//localhost:1521/xe
+    username: ELIAS
+    password: ELIAS123
+    driver-class-name: oracle.jdbc.OracleDriver
+  #Configuracion JPA
+  jpa:
+    show-sql: true
+    database-platform: org.hibernate.dialect.Oracle12cDialect
+    generate-ddl: true
+    hibernate:
+      ddl-auto: update
