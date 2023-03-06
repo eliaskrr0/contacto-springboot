@@ -5,22 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eae791ff-9b9f-44e3-8363-b1498c6228cd" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/contacto/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/contacto/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/contacto/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/contacto/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/contacto/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/contacto/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/contacto/src/main/java/eliaskrr/contacto/ContactoApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/contacto/src/main/java/eliaskrr/contacto/controlador/ContactoControlador.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/contacto/src/main/java/eliaskrr/contacto/excepciones/ContactoNotFoundException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/contacto/src/main/java/eliaskrr/contacto/modelo/Contacto.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/contacto/src/main/java/eliaskrr/contacto/repo/ContactoRepo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/contacto/src/main/java/eliaskrr/contacto/servicio/ContactoServicio.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/contacto/src/main/java/eliaskrr/contacto/servicio/ContactoServicioImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/contacto/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/contacto/src/main/resources/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/contacto/src/test/java/eliaskrr/contacto/ContactoApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jpa-buddy.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/eliaskrr/contacto/modelo/Contacto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/eliaskrr/contacto/modelo/Contacto.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +18,20 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="isToolWindowVisible" value="false" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
   </component>
   <component name="ProjectId" id="2Mc0Qqothw4XZl43bKqGyZ9C4pj" />
   <component name="ProjectViewState">
@@ -42,6 +45,26 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/Usuario/OneDrive/Escritorio/Programacion/git/web/proyectos-angular/contacto/contacto-springboot&quot;
   }
 }</component>
+  <component name="RunManager">
+    <configuration name="ContactoApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="eliaskrr.contacto.ContactoApplication" />
+      <module name="contacto" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="eliaskrr.contacto.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ContactoApplication" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
